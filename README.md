@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeeklyFurball
-- 👀 I’m interested in tabletop games and video games.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in tabletop games, video games, and software development!
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: 
