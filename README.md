@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @WeeklyFurball
-- 👀 I’m interested in tabletop games, video games, and software development!
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to develop mods for Minecraft using Java
 - 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact: 
+- Mods are organized by repository
 
 <!---
 WeeklyFurball/WeeklyFurball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
